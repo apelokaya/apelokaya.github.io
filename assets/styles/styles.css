@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Sinhala:wght@300;400;500;600;700;800;900&display=swap');
+
+nav.navbar {
+    background-color: #1b1f21;
+    box-shadow: rgb(0 0 0 / 40%) 0px 0px 20px;
+}
+
+article.article {
+    font-size: 18px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: "Noto Sans Sinhala";
+}
+
+article.article h1,h2,h3,h4,h5,h6 {
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+
+article.article h1 { font-weight: 900; }
+article.article h2 { font-weight: 800; }
+article.article h3 { font-weight: 700; }
+article.article h4 { font-weight: 600; }
+article.article h5 { font-weight: 500; }
+article.article h6 { font-weight: 400; }
+
+article.article img {
+    height: auto;
+    max-width: 100%;
+    margin-top: 20px;
+    border-radius: 7px;
+    margin-bottom: 20px;
+}
